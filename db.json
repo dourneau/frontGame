@@ -1,0 +1,8 @@
+{"games" : [{"id":1, "uuid":"fecc2fb7-8af2-4f80-907e-bcac17739749", "name":"7 Wonders", "min_player":3, "max_player":7, "min_time":30, "max_time":30, "min_age":10, "creator_name":"Antoine Bauza"},
+ {"id":2, "uuid":"5f0231d8-8fc6-4221-b5f9-ed36cf4750f5", "name":"Innovation", "min_player":0, "max_player":0, "min_time":0, "max_time":0, "min_age":0, "creator_name":""},
+ {"id":3, "uuid":"aaba0a2d-cbdc-4192-a42a-c6135624c341", "name":"Myrmes", "min_player":2, "max_player":4, "min_time":0, "max_time":0, "min_age":12, "creator_name":""},
+ {"id":4, "uuid":"445d42eb-0985-45d0-80e5-582292a3a056", "name":"Root", "min_player":0, "max_player":0, "min_time":0, "max_time":0, "min_age":0, "creator_name":"Cole Wehrle"},
+ {"id":5, "uuid":"f6b186a2-e604-4b82-a8b2-010f6df02de5", "name":"Mysterium", "min_player":0, "max_player":0, "min_time":42, "max_time":0, "min_age":0, "creator_name":""},
+ {"id":6, "uuid":"248efeb9-3d1a-4905-89b3-7289ac47c681", "name":"Inis", "min_player":0, "max_player":0, "min_time":60, "max_time":0, "min_age":14, "creator_name":""},
+ {"id":8, "uuid":"c8b4b920-6435-43a4-a114-865261aa3f57", "name":"7 Wonders : Duel", "min_player":0, "max_player":0, "min_time":0, "max_time":0, "min_age":0, "creator_name":""}]
+}

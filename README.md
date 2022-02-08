@@ -1,3 +1,9 @@
+This project has two environment variables:
+URL: 'http://localhost:8080',
+URL2: 'http://localhost:3000'
+The second permits to read the db.json file in order to obtain the uuid of game as the app has no getAll service.
+Then it is practical to use the getByUuid service.
+
 # Game
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
